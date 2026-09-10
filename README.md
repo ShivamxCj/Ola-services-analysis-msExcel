@@ -68,7 +68,7 @@ Built an interactive dashboard to monitor:
 
 ### Executive Overview
 
-![Ola Power BI Dashboard](https://github.com/ShivamxCj/Ola-services-analysis-msExcel/blob/main/images/ola_dashboard.png)
+![Ola Power BI Dashboard](https://github.com/ShivamxCj/Ola-services-analysis-msExcel/blob/main/DashboardImages/PowerBI_Dashboard.png)
 
 ### Python Analysis
 

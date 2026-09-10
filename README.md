@@ -72,9 +72,9 @@ Built an interactive dashboard to monitor:
 
 ### Python Analysis
 
-![Hourly Demand Analysis](https://github.com/ShivamxCj/Ola-services-analysis-msExcel/blob/main/images/python_analysis.png)
+![Hourly Demand Analysis](https://github.com/ShivamxCj/Ola-services-analysis-msExcel/blob/main/DashboardImages/Ride%20Demand%20Distribution%20by%20Hour%20of%20Day.png)
 
-![Ride and TAT Analysis](https://github.com/ShivamxCj/Ola-services-analysis-msExcel/blob/main/images/excel_analysis.png)
+![Revenue per type](https://github.com/ShivamxCj/Ola-services-analysis-msExcel/blob/main/DashboardImages/Total%20Revenue%20by%20Vehicle%20Type.png)
 
 ## Key Insights
 
